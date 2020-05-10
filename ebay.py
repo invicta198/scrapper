@@ -15,8 +15,8 @@ def display_data(products):
         print("********************")
 
 
-def start_task():
-    product = input("ENTER PRODUCT : ").strip()
+def start_task(product):
+    # product = input("ENTER PRODUCT : ").strip()
     product = urllib.parse.quote_plus(product, safe="", encoding=None, errors=None)
     my_url = "https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw={}&_sacat=0".format(product)
 

@@ -49,8 +49,8 @@ def second_method(content):
             print("********************")
 
 
-def start_task():
-    product = input("ENTER PRODUCT : ").strip()
+def start_task(product):
+    # product = input("ENTER PRODUCT : ").strip()
     product = urllib.parse.quote_plus(product, safe="", encoding=None, errors=None)
     my_url = "https://www.flipkart.com/search?q={}".format(product)
     # click.echo(my_url)
@@ -74,7 +74,7 @@ def start_task():
         else:
             second_method(page)
 
-        print(my_url)
+        # print(my_url)
     except Exception as e:
         print("Error Occurred {}".format(e))
 

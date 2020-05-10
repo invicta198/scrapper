@@ -2,184 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c6217a5-a823-48b2-8263-3ac43a66c233" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ebay.py" beforeDir="false" afterPath="$PROJECT_DIR$/ebay.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flipkart.py" beforeDir="false" afterPath="$PROJECT_DIR$/flipkart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.4.5.1.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.4.5.1.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.4.5.1.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.4.5.1.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.4.5.1.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi-2020.4.5.1.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/cacert.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/certifi/core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.9.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.9.dist-info/LICENSE.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.9.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.9.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.9.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna-2.9.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/codec.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/idnadata.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/intranges.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/package_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/idna/uts46data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium-3.141.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium-3.141.0.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium-3.141.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium-3.141.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium-3.141.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium-3.141.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/common/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/common/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/android/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/android/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/blackberry/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/blackberry/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/action_chains.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/action_builder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/input_device.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/interaction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/key_actions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/key_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/mouse_button.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/pointer_actions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/actions/pointer_input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/alert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/by.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/desired_capabilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/html5/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/html5/application_cache.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/keys.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/proxy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/touch_actions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/edge/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/edge/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/edge/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/edge/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/extension_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/firefox_binary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/firefox_profile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver.xpi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver_prefs.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/webelement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/firefox/x86/x_ignore_nofocus.so" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/opera/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/opera/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/opera/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/phantomjs/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/phantomjs/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/phantomjs/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/command.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/file_detector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/getAttribute.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/isDisplayed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/mobile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/switch_to.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/permissions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/remote_connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/safari/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/abstract_event_listener.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/color.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/event_firing_webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/events.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/select.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/ui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/support/wait.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/webkitgtk/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/webkitgtk/options.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/webkitgtk/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/webkitgtk/webdriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-2.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-2.0.dist-info/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-2.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-2.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-2.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve-2.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/__meta__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/css_match.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/css_parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/css_types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/soupsieve/util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.25.9.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.25.9.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.25.9.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.25.9.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.25.9.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3-1.25.9.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/_collections.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/connectionpool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_appengine_environ.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/appengine.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/ntlmpool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/pyopenssl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/securetransport.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/contrib/socks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/fields.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/filepost.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/backports/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/backports/makefile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/six.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/poolmanager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/request.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/response.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/connection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/request.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/response.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/retry.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/ssl_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/timeout.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/url.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/urllib3/util/wait.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,11 +13,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flipkart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="276">
+              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#82#866#0" />
+                <element signature="e#901#1757#0" />
+                <element signature="e#1782#2665#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,20 +31,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ebay.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="207">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#6#0" expanded="true" />
+                <element signature="e#75#301#0" />
+                <element signature="e#326#1043#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/execute.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="23">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -235,9 +67,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/amazon.py" />
-        <option value="$PROJECT_DIR$/ebay.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/flipkart.py" />
+        <option value="$PROJECT_DIR$/ebay.py" />
+        <option value="$PROJECT_DIR$/execute.py" />
       </list>
     </option>
   </component>
@@ -397,27 +230,42 @@
     <entry file="file://$PROJECT_DIR$/.github/workflows/pythonapp.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ebay.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flipkart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="276">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#82#866#0" />
+            <element signature="e#901#1757#0" />
+            <element signature="e#1782#2665#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#75#301#0" />
+            <element signature="e#326#1043#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
