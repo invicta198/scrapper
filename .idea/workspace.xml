@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c6217a5-a823-48b2-8263-3ac43a66c233" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ebay.py" beforeDir="false" afterPath="$PROJECT_DIR$/ebay.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flipkart.py" beforeDir="false" afterPath="$PROJECT_DIR$/flipkart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/pythonapp.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/pythonapp.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,39 +14,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flipkart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <element signature="e#82#866#0" />
-                <element signature="e#901#1757#0" />
-                <element signature="e#1782#2665#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ebay.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
               <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#6#0" expanded="true" />
-                <element signature="e#75#301#0" />
-                <element signature="e#326#1043#0" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/execute.py">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/pythonapp.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="489">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -68,9 +48,10 @@
       <list>
         <option value="$PROJECT_DIR$/amazon.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/flipkart.py" />
         <option value="$PROJECT_DIR$/ebay.py" />
         <option value="$PROJECT_DIR$/execute.py" />
+        <option value="$PROJECT_DIR$/flipkart.py" />
+        <option value="$PROJECT_DIR$/.github/workflows/pythonapp.yml" />
       </list>
     </option>
   </component>
@@ -94,6 +75,17 @@
             <path>
               <item name="scrapper" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapper" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapper" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +195,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12285337" />
@@ -227,9 +219,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/amazon.py" />
-    <entry file="file://$PROJECT_DIR$/.github/workflows/pythonapp.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -237,15 +226,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/flipkart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        <state relative-caret-position="214">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#82#866#0" />
-            <element signature="e#901#1757#0" />
-            <element signature="e#1782#2665#0" />
+            <element signature="e#112#896#0" />
+            <element signature="e#931#1787#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -254,18 +255,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#75#301#0" />
-            <element signature="e#326#1043#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/execute.py">
+    <entry file="file://$PROJECT_DIR$/.github/workflows/pythonapp.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="489">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
