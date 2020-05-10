@@ -1,4 +1,5 @@
 import bs4
+from bs4 import BeautifulSoup
 import requests
 import urllib
 
@@ -15,8 +16,7 @@ def display_data(products):
 
 
 def start_task():
-    product = input("Enter object ")
-    product = product.strip()
+    product = input("ENTER PRODUCT : ").strip()
     product = urllib.parse.quote_plus(product, safe="", encoding=None, errors=None)
     my_url = "https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw={}&_sacat=0".format(product)
 
