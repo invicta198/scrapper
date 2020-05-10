@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import requests
 import urllib
 
+# file_object = open("flipkart_data.txt", "w+")
+
 
 def first_method(product_details):
     for product_detail in product_details:
@@ -50,16 +52,11 @@ def second_method(content):
 
 
 def start_task(product):
-    # product = input("ENTER PRODUCT : ").strip()
     product = urllib.parse.quote_plus(product, safe="", encoding=None, errors=None)
     my_url = "https://www.flipkart.com/search?q={}".format(product)
-    # click.echo(my_url)
-    # print (my_url)
     html = None
 
-    # Use exception handling to handle any runtime exception
     try:
-        # It's a pythonic way to use context statement `with` whenever opening or closing a resource.
         response = requests.get(my_url)
 
         if response.status_code == 200:
@@ -74,7 +71,6 @@ def start_task(product):
         else:
             second_method(page)
 
-        # print(my_url)
     except Exception as e:
         print("Error Occurred {}".format(e))
 
