@@ -14,7 +14,7 @@ Exrtact files
 ## Step 3 : 
 Download the required libraries, listed in reqiurements.txt file
 ## Step 4 : 
-Run the command : ***python execute.py***
+Run the command : ***python execute.py --help***
 
 # Support
 tejasmanas39@gmail.com
