@@ -64,6 +64,8 @@ def start_task(product):
 
         details = page.find_all("div", {"class": "_1-2Iqu row"})
 
+        print(len(details))
+        print("*****")
         if len(details) != 0:
             first_method(details)
         else:
@@ -74,4 +76,4 @@ def start_task(product):
 
 
 if __name__ == '__main__':
-    start_task()
+    start_task("earphone")
