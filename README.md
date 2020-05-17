@@ -6,6 +6,8 @@ Collects data of user defined item from Flipkat.com and Ebay.com.
 
 ![Python application](https://github.com/invicta198/scrapper/workflows/Python%20application/badge.svg?branch=master&event=push)
 
+![Python package](https://github.com/invicta198/scrapper/workflows/Python%20package/badge.svg)
+
 # Installation
 ## Step 1 : 
 Clone or Download the zip folder via https://github.com/invicta198/scrapper.git
