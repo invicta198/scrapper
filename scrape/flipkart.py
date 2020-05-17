@@ -1,5 +1,4 @@
 import bs4
-# from bs4 import BeautifulSoup
 import requests
 import urllib
 
@@ -10,18 +9,21 @@ def first_method(product_details):
         for datum in data:
 
             name = datum.div
-            print("Product : {}".format(name.text))  # PRINTING NAME OF EACH PRODUCT FOUND
+            # PRINTING NAME OF EACH PRODUCT FOUND
+            print("Product : {}".format(name.text))
 
             try:
-                rating = datum.find("div", {"class": "hGSR34"})
-                print("Rating : {}".format(rating.text))  # PRINTING RATING OF EACH PRODUCT FOUND
+                rating = datum.find(
+                    "div", {"class": "hGSR34"})
+                # PRINTING RATING OF EACH PRODUCT FOUND
+                print("Rating : {}".format(rating.text))
             except Exception as e:
-                print("")
-                # print("Error Occurred {}".format(e))
+                print("Error Occurred {}".format(e))
 
             detail = datum.findAll("li", {"class": "tVe95H"})
             for k in detail:
-                print("Details : {}".format(k.text))  # PRINTING DETAILS OF EACH PRODUCT FOUND
+                # PRINTING DETAILS OF EACH PRODUCT FOUND
+                print("Details : {}".format(k.text))
 
             print("********************")
 
@@ -33,24 +35,28 @@ def second_method(content):
         for j in i:
 
             product_name = j.div.find("a", {"class": "_2cLu-l"})['title']
-            print("Product : {}".format(product_name))  # PRINTING NAME OF EACH PRODUCT FOUND
+            # PRINTING NAME OF EACH PRODUCT FOUND
+            print("Product : {}".format(product_name))
 
             try:
-                rating = j.div.find("div", {"class": "niH0FQ _36Fcw_"}).text
-                print("Rating(Number) : {}".format(rating))  # PRINTING RATING OF EACH PRODUCT FOUND
+                rating = j.div.find(
+                    "div", {"class": "niH0FQ _36Fcw_"}).text
+                # PRINTING RATING OF EACH PRODUCT FOUND
+                print("Rating(Number) : {}".format(rating))
 
                 details = j.div.find("a", {"class": "_1Vfi6u"}).text
-                print("Details : {}".format(details))  # PRINTING DETAILS OF EACH PRODUCT FOUND
+                # PRINTING DETAILS OF EACH PRODUCT FOUND
+                print("Details : {}".format(details))
 
             except Exception as e:
-                print("")
-                # print("Error Occurred {}".format(e))
+                print("Error Occurred {}".format(e))
 
             print("********************")
 
 
 def start_task(product):
-    product = urllib.parse.quote_plus(product, safe="", encoding=None, errors=None)
+    product = urllib.parse.quote_plus(
+        product, safe="", encoding=None, errors=None)
     my_url = "https://www.flipkart.com/search?q={}".format(product)
     html = None
 

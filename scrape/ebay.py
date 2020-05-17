@@ -1,5 +1,4 @@
 import bs4
-from bs4 import BeautifulSoup
 import requests
 import urllib
 
@@ -17,8 +16,10 @@ def display_data(products):
 
 def start_task(product):
     # product = input("ENTER PRODUCT : ").strip()
-    product = urllib.parse.quote_plus(product, safe="", encoding=None, errors=None)
-    my_url = "https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw={}&_sacat=0".format(product)
+    product = urllib.parse.quote_plus(
+        product, safe="", encoding=None, errors=None)
+    my_url = "https://www.ebay.com/sch/i.html" \
+             "?_from=R40&_trksid=m570.l1313&_nkw={}&_sacat=0".format(product)
 
     html = None
 
@@ -28,7 +29,8 @@ def start_task(product):
             html = response.content.decode()
 
         page = bs4.BeautifulSoup(html, "html.parser")
-        all_products = page.find_all("div", {"class": "s-item__wrapper clearfix"})
+        all_products = page.find_all(
+            "div", {"class": "s-item__wrapper clearfix"})
 
         print("Total Products : {}".format(len(all_products)))
         display_data(all_products)
@@ -38,4 +40,4 @@ def start_task(product):
 
 
 if __name__ == '__main__':
-    start_task() 
+    start_task("earphone")
