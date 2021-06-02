@@ -3,5 +3,5 @@ beautifulsoup4==4.9.0
 requests==2.23.0
 chardet==3.0.4
 click==7.1.2
-urllib3==1.25.9
+urllib3==1.26.5
 soupsieve==2.0
